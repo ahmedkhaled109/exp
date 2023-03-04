@@ -7,5 +7,6 @@ Created on Sat Mar  4 04:49:10 2023
 x=5
 def multi(x1,x2):
 return x1*x2
-
+oo=55
+add
         
